@@ -1,6 +1,6 @@
-# flutter_qr_code_generator_app
+# flutter_Ikaria_app
 
-A new Flutter QR Code Generator application.
+Una Nueva manera de pago en el transporte, incluyendo el servicio neptune ID.
 
 ## Getting Started
 
